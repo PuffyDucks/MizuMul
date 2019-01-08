@@ -3,9 +3,9 @@ const Discord = require('discord.js');
 
 exports.run = (client, message, args) => {
     const embed = new Discord.RichEmbed()
-    .setTitle('__Invite Moe__')
-    .setDescription(`Here you go ^^: https://discordapp.com/api/oauth2/authorize?client_id=${client.user.id}&permissions=8&scope=bot`)
-    .setColor('#A65EA5')
+    .setTitle('__Invite MizuMul__')
+    .setDescription(`[Invite me to your server!](https://discordapp.com/api/oauth2/authorize?client_id=${client.user.id}&scope=bot&permissions=3533888)`)
+    .setColor('#4DA6FF')
     return message.channel.send(embed);
 
 }

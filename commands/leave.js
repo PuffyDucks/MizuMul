@@ -6,8 +6,8 @@ exports.run = (client, message, args) => {
       if (message.member.voiceChannel) {
         message.member.voiceChannel.leave()
         let embed = new Discord.RichEmbed()
-        .setDescription('Left Voice Channel.')
-        .setColor('#A65EA5')
+        .setDescription('Disconnected :wave:')
+        .setColor('#4DA6FF')
       message.channel.send(embed);
     };
   }

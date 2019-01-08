@@ -7,7 +7,7 @@ exports.run = (client, message, args) => {
         message.member.voiceChannel.join()
         let embed = new Discord.RichEmbed()
         .setDescription('Joined Voice Channel.')
-        .setColor('#A65EA5')
+        .setColor('#4DA6FF')
       message.channel.send(embed);
     };
   }

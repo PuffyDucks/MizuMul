@@ -1,7 +1,7 @@
 const config = require('./config.json')
 
 const { ShardingManager } = require('discord.js');
-const shard = new ShardingManager('./moe.js', {
+const shard = new ShardingManager('./mizumul.js', {
   token: config.token,
   autoSpawn: true
 });

@@ -1,20 +1,20 @@
 const Discord = require("discord.js");
 const ffmpeg = require("ffmpeg-binaries");
 const opusscript = require("opusscript");
+const config = require("../config.json");
 
 exports.run = (client, message, args) => {
       if (message.member.voiceChannel) {
         message.member.voiceChannel.join()
           .then(connection => {
             let embed = new Discord.RichEmbed()
-            .setDescription('**Connected!** Playing qtradio.moe')
-            .setColor('#A65EA5')
+            .setDescription(':white_check_mark: **Connected to voice channel!** Playing J-pop :flag_jp: from qtradio.moe :notes: \n **Remember:** You can set the volume with ' + `\`${config.prefix}volume\`` + ':loud_sound:')
+            .setColor('#4DA6FF')
             connection.playArbitraryInput(`https://qtradio.moe/stream`);
             message.channel.send(embed);
           })
           .catch(console.log);
       } else {
-        message.reply('You are not in a voice channel!');
+        message.reply('**You must be in a voice channel!** :x:');
       }
     };
-  

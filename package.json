@@ -1,7 +1,7 @@
 {
-  "name": "moe",
-  "version": "1.0.2",
-  "description": "Listen.moe Radio Bot",
+  "name": "mizumul",
+  "version": "0.1.0",
+  "description": "Bot for both anime and kpop lovers!",
   "main": "index.js",
   "dependencies": {
     "animequote": "^1.1.1",
@@ -20,8 +20,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "listen.moe"
+    "anime, kpop, asia, korea, japan, music"
   ],
-  "author": "etcroot#7884",
+  "author": "PuffyDucks#0420",
   "license": "MIT"
 }
