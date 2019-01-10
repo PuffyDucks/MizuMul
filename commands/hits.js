@@ -6,7 +6,7 @@ const stations = require("./stations.json");
 
 exports.run = (client, message, args) => {
   if (message.member.voiceChannel) {
-    var genre = stations["jpop"];
+    var genre = stations["hits"];
     var station = genre[args[0]];
     if (station != undefined) {
       message.member.voiceChannel.join()

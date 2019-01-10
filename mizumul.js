@@ -33,7 +33,7 @@ client.on("message", message => {
     .setDescription([`
     My commands prefix is \`${config.prefix}\` \n Use \`${config.prefix}help\` for my commands.
     `])
-    .setColor('#4DA6FF')
+    .setColor("#4DA6FF")
     return message.channel.send(embed);
   }
   if(message.content.indexOf(config.prefix) !== 0) return;

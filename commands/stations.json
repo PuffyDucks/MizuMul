@@ -1,0 +1,244 @@
+{
+  "hits":{
+    "genre": "Hits :headphones:",
+    "1":{
+      "name": "99.7 NOW",
+      "link": "http://17933.live.streamtheworld.com:3690/KMVQFM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6I",
+      "npCompatible": false,
+      "ppCompatible": false,
+      "_comment": "Links for more radios: https://www.internet-radio.com/stations/blues/ and https://tunein.com/search/?query=µ%27s"
+    },
+    "2":{
+      "name": "Classic Hits on TuneIn",
+      "link": "http://rfcmedia.streamguys1.com/classicoldies.mp3?aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1547078357",
+      "npCompatible": false,
+      "ppCompatible": false
+    },
+    "3":{
+      "name": "60's Hits on TuneIn",
+      "link": "http://rfcmedia.streamguys1.com/60shits.mp3",
+      "npCompatible": false,
+      "ppCompatible": false
+    },
+    "4":{
+      "name": "70's Hits on TuneIn",
+      "link": "http://rfcmedia.streamguys1.com/70hits.mp3?aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1547081686",
+      "npCompatible": false,
+      "ppCompatible": false,
+      "_comment": "Links for more radios: https://www.internet-radio.com/stations/blues/ and https://tunein.com/search/?query=µ%27s"
+    },
+    "5":{
+      "name": "80's Hits on TuneIn",
+      "link": "http://tunein4.streamguys1.com/80shtfree1?aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1547081687",
+      "npCompatible": false,
+      "ppCompatible": false
+    },
+    "6":{
+      "name": "90's Hits on TuneIn",
+      "link": "http://tunein4.streamguys1.com/90shtfree1?aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1547081689",
+      "npCompatible": false,
+      "ppCompatible": false
+    }
+  },
+  "jpop":{
+    "genre": "Jpop :flag_jp:",
+    "1":{
+      "name": "listen.moe",
+      "link": "https://listen.moe/opus",
+      "npCompatible": true,
+      "ppCompatible": true
+    },
+    "2":{
+      "name": "qtradio.moe",
+      "link": "https://qtradio.moe/stream",
+      "npCompatible": true,
+      "ppCompatible": true
+    },
+    "3":{
+      "name": "bigbradio.net",
+      "link": "http://64.71.79.181:8018/",
+      "npCompatible": false,
+      "ppCompatible": false
+    },
+    "4":{
+      "name": "yggdrasilradio.net",
+      "link": "http://95.211.241.92:9200/",
+      "npCompatible": false,
+      "ppCompatible": false
+    },
+    "5":{
+      "name": "J-Pop Powerplay",
+      "link": "http://bb30.sonixcast.com:9628/;",
+      "npCompatible": false,
+      "ppCompatible": false
+    },
+    "6":{
+      "name": "BaKaRadio",
+      "link": "http://144.217.203.184:8398/;",
+      "npCompatible": false,
+      "ppCompatible": false
+    }
+  },
+  "kpop":{
+    "genre": "Kpop :flag_kr:",
+    "1":{
+      "name": "listen.moe",
+      "link": "https://listen.moe/kpop/opus",
+      "npCompatible": true,
+      "ppCompatible": true
+    },
+    "2":{
+      "name": "Kpopway",
+      "link": "https://streamer.radio.co/s06b196587/listen",
+      "npCompatible": true,
+      "ppCompatible": true
+    },
+    "3":{
+      "name": "Big B Radio",
+      "link": "http://64.71.79.181:8040/",
+      "npCompatible": false,
+      "ppCompatible": false
+    },
+    "4":{
+      "name": "Aewen - Main channel",
+      "link": "http://37.72.100.39:8001/stream",
+      "npCompatible": false,
+      "ppCompatible": false
+    },
+    "5":{
+      "name": "Aewen - K-Drama OST channel",
+      "link": "http://37.72.100.39:8025/stream",
+      "npCompatible": false,
+      "ppCompatible": false
+    },
+    "6":{
+      "name": "Aewen - K-Jpop channel",
+      "link": "http://37.72.100.39:8031/stream",
+      "npCompatible": false,
+      "ppCompatible": false
+    }
+  },
+  "jazz":{
+    "genre": "Jazz :saxophone:",
+    "1":{
+      "name": "Jazz Club on TuneIN",
+      "link": "http://rfcmedia.streamguys1.com/jazzclub.mp3?aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1547074036",
+      "npCompatible": false,
+      "ppCompatible": false
+    },
+    "2":{
+      "name": "Jazz Fusion on TuneIN",
+      "link": "http://tunein4.streamguys1.com/jzfusfree1?aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1547074861",
+      "npCompatible": false,
+      "ppCompatible": false
+    },
+    "3":{
+      "name": "Jazz Vibes on TuneIN",
+      "link": "http://tunein4.streamguys1.com/jzfusfree3",
+      "npCompatible": false,
+      "ppCompatible": false
+    },
+    "4":{
+      "name": "Smooth Jazz on TuneIN",
+      "link": "http://rfcmedia.streamguys1.com/smoothjazz.mp3?aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1547074911",
+      "npCompatible": false,
+      "ppCompatible": false
+    },
+    "5":{
+      "name": "Jazz FM on TuneIN",
+      "link": "http://tx.sharp-stream.com/icecast.php?i=jazzfmmobile.mp3",
+      "npCompatible": false,
+      "ppCompatible": false
+    },
+    "6":{
+      "name": "Jazz Cafe on TuneIN",
+      "link": "http://radio.wanderingsheep.tv:8000/jazzcafe",
+      "npCompatible": false,
+      "ppCompatible": false
+    },
+    "7":{
+      "name": "KCSM Jazz 91.1",
+      "link": "http://ice7.securenetsystems.net/KCSM2",
+      "npCompatible": false,
+      "ppCompatible": false
+    }
+  },
+  "classical":{
+    "genre": "Classical :violin:",
+    "1":{
+      "name": "Classic FM",
+      "link": "http://media-ice.musicradio.com/ClassicFMMP3",
+      "npCompatible": false,
+      "ppCompatible": false
+    },
+    "2":{
+      "name": "Modern Classical on TuneIN",
+      "link": "http://tunein4.streamguys1.com/mclasfree1",
+      "npCompatible": false,
+      "ppCompatible": false
+    },
+    "3":{
+      "name": "Linn Records.com",
+      "link": "http://89.16.185.174:8004/stream",
+      "npCompatible": false,
+      "ppCompatible": false
+    },
+    "4":{
+      "name": "Positivity World Radio",
+      "link": "http://edge01.media.positivityradio.world:8081/positively/royal/icecast.audio",
+      "npCompatible": false,
+      "ppCompatible": false
+    },
+    "5":{
+      "name": "KDFC",
+      "link": "http://14993.live.streamtheworld.com/KDFCFM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&ua=RadioTime&ttag=RadioTime",
+      "npCompatible": false,
+      "ppCompatible": false
+    },
+    "6":{
+      "name": "Classical Oasis",
+      "link": "http://192.99.35.215:5338/stream",
+      "npCompatible": false,
+      "ppCompatible": false
+    }
+  },
+  "news":{
+    "genre": "News :newspaper:",
+    "1":{
+      "name": "CNN",
+      "link": "http://tunein.streamguys1.com/cnn?aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1547076333",
+      "npCompatible": false,
+      "ppCompatible": false
+    },
+    "2":{
+      "name": "Fox News Talk",
+      "link": "http://tunein.streamguys1.com/secure-foxnews?key=c7c80cbb11ed5168e1eeb64f331c56e31df81a49eb0ea57d26e3535134e02465",
+      "npCompatible": false,
+      "ppCompatible": false
+    },
+    "3":{
+      "name": "MSNBC",
+      "link": "http://tunein.streamguys1.com/secure-msnbc-free?key=a4d0e3ab84fe5ab4d8153f276992f27892c018d418c395d57e2960598e64cfa5",
+      "npCompatible": false,
+      "ppCompatible": false
+    },
+    "4":{
+      "name": "CNBC",
+      "link": "http://tunein.streamguys1.com/secure-cnbc?key=eaf7b405846c115f74a8be8a70faa63ec319cd260970a6ffd4b09e43f2e0e61d",
+      "npCompatible": false,
+      "ppCompatible": false
+    },
+    "5":{
+      "name": "KQED-FM",
+      "link": "http://50.31.186.115/kqedradio.mp3",
+      "npCompatible": false,
+      "ppCompatible": false
+    },
+    "6":{
+      "name": "BBC Radio 5",
+      "link": "http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/http-icy-mp3-a-stream/proto/http/vpid/bbc_radio_five_live",
+      "npCompatible": false,
+      "ppCompatible": false
+    }
+  }
+}

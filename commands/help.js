@@ -1,5 +1,5 @@
-const config = require('../config.json');
-const Discord = require('discord.js');
+const config = require("../config.json");
+const Discord = require("discord.js");
 
 exports.run = (client, message, args) => {
 
@@ -10,36 +10,34 @@ exports.run = (client, message, args) => {
         name: client.user.username + "\'s Commands",
         icon_url: client.user.avatarURL
       },
-      title: "Read more about the commands here",
-      url: "https://thumbs.gfycat.com/PoshShowyCrustacean-max-1mb.gif",
       description: "All commands use `" + config.prefix + "` as a prefix.",
       fields: [{
         name: ":moneybag: Economy",
-        value: "`lol wip`"
+        value: "`Nothing here yet!`"
       },
       {
         name: ":game_die: Games",
-        value: "`lol wip`"
+        value: "`Nothing here yet!`"
       },
       {
         name: ":trophy: Collection",
-        value: "`lol wip`"
+        value: "`Nothing here yet!`"
       },
       {
         name: ":8ball: Fun",
-        value: "`lol wip`"
+        value: "`Nothing here yet!`"
       },
       {
         name: ":notes: Music",
-        value: "`join` `kpop` `jpop` `qt` `volume` `leave`"
+        value: "`join` `radio` `volume` `leave`"
       },
       {
         name: ":slight_smile: Emotes",
-        value: "`lol wip`"
+        value: "`Nothing here yet!`"
       },
       {
         name: ":hugging: Actions",
-        value: "`lol wip`"
+        value: "`Nothing here yet!`"
       },
       {
         name: ":wrench: Utility",
