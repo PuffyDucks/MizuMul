@@ -55,7 +55,7 @@
       "ppCompatible": true
     },
     "3":{
-      "name": "bigbradio.net",
+      "name": "Big B Radio",
       "link": "http://64.71.79.181:8018/",
       "npCompatible": false,
       "ppCompatible": false
@@ -121,14 +121,14 @@
   "jazz":{
     "genre": "Jazz :saxophone:",
     "1":{
-      "name": "Jazz Club on TuneIN",
-      "link": "http://rfcmedia.streamguys1.com/jazzclub.mp3?aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1547074036",
+      "name": "KCSM Jazz 91.1",
+      "link": "http://ice7.securenetsystems.net/KCSM2",
       "npCompatible": false,
       "ppCompatible": false
     },
     "2":{
-      "name": "Jazz Fusion on TuneIN",
-      "link": "http://tunein4.streamguys1.com/jzfusfree1?aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1547074861",
+      "name": "Jazz Club on TuneIN",
+      "link": "http://rfcmedia.streamguys1.com/jazzclub.mp3?aw_0_1st.playerid=RadioTime&aw_0_1st.skey=1547074036",
       "npCompatible": false,
       "ppCompatible": false
     },
@@ -153,12 +153,6 @@
     "6":{
       "name": "Jazz Cafe on TuneIN",
       "link": "http://radio.wanderingsheep.tv:8000/jazzcafe",
-      "npCompatible": false,
-      "ppCompatible": false
-    },
-    "7":{
-      "name": "KCSM Jazz 91.1",
-      "link": "http://ice7.securenetsystems.net/KCSM2",
       "npCompatible": false,
       "ppCompatible": false
     }
@@ -212,7 +206,7 @@
     },
     "2":{
       "name": "Fox News Talk",
-      "link": "http://tunein.streamguys1.com/secure-foxnews?key=c7c80cbb11ed5168e1eeb64f331c56e31df81a49eb0ea57d26e3535134e02465",
+      "link": "http://tunein.streamguys1.com/secure-foxnews?key=b6611bc3931bd69f9e4ed20ebe2ea6a96ee1c70e7a9bdfe6a65fcbaa6ead8ad9",
       "npCompatible": false,
       "ppCompatible": false
     },
@@ -229,14 +223,14 @@
       "ppCompatible": false
     },
     "5":{
-      "name": "KQED-FM",
-      "link": "http://50.31.186.115/kqedradio.mp3",
+      "name": "BBC Radio 5",
+      "link": "http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/http-icy-mp3-a-stream/proto/http/vpid/bbc_radio_five_live",
       "npCompatible": false,
       "ppCompatible": false
     },
     "6":{
-      "name": "BBC Radio 5",
-      "link": "http://open.live.bbc.co.uk/mediaselector/5/redir/version/2.0/mediaset/http-icy-mp3-a-stream/proto/http/vpid/bbc_radio_five_live",
+      "name": "KQED-FM",
+      "link": "http://50.31.186.115/kqedradio.mp3",
       "npCompatible": false,
       "ppCompatible": false
     }
